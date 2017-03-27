@@ -11,8 +11,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 """
 
-__author__ = 'Emanuele Bertoldi <emanuele.bertoldi@gmail.com>'
-__copyright__ = 'Copyright (c) 2013 Emanuele Bertoldi'
+__author__ = 'Zolile Nonzapa <zolile@mlkcomputer.co.za>'
+__copyright__ = 'Copyright (c) 2017 Zolile Nonzapa'
 __version__ = '0.0.1'
 
 from utils import clean_http_referer
