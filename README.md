@@ -31,7 +31,7 @@ Installation
 
 1. Checkout sources from the GIT repository:
 
-    `git clone https://github.com/djangoERPTeam/django-erp.git`
+    `git clone https://github.com/ZolileN/PythonERPSystem.git`
 
 2. Copy and rename **djangoerp/settings/base.py.tmpl** to  **djangoerp/settings/base.py**.
  

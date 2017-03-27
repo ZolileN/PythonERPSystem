@@ -7,4 +7,4 @@ Author's details
 ----------------
 
  * **Copyright:** (c) 2017 Zolile Nonzapa
- * **Email:** <emanuele.bertoldi@gmail.com>
+ * **Email:** <zolile@mlkcomputer.co.za>
